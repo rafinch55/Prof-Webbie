@@ -1,7 +1,11 @@
 ---
 layout: post
-title: WoodCrafting Projects
-description: Wood carving and burning projects influenced by academia
+title: Wood Crafting
+description: Woodcarving and Woodburning Influenced by Academia
 ---
 
-![Dr. Morris](/Prof-Webbie/assets/images/morris.png "Thesis Revisions")
+## Academic Wood Crafting
+
+These are woodcrafting projects created and inspired by academic work.
+
+ ![Morris Box](/Prof-Webbie/assets/images/Morris.png "Thesis Revisions") 
