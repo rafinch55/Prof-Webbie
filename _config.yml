@@ -5,7 +5,7 @@ description: Ph.D Student | UCF | Oreo's are the best
 
 baseurl: /Prof-Webbie #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: rafinch@knights.ucf.edu
 
 # Pagination
 paginate: 4
@@ -13,15 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+twitter: "@rickyfinch1038"
+linkedin: "www.linkedin.com/in/ricky-finch-bb9364106"
+instagram: "rafinch55"
+
 
 
 # Markdown
