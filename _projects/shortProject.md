@@ -3,7 +3,7 @@ layout: post
 title: Games 
 description: Twine Games 
 ---
-[T&T Gazette](file:///C:/Users/rafin/OneDrive/Desktop/Twine%20Games/T_T%20Gazette.html)
+[T&T Gazette](https://otter1038.itch.io/tt-gazette)
 
-[AAAH Dating App](file:///C:/Users/rafin/OneDrive/Desktop/Twine%20Games/AAAH%20Dating%20App.html)
+[AAAH Dating App](https://otter1038.itch.io/aaah-dating-app)
 
