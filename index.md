@@ -7,8 +7,12 @@ profile:
 published: true
 ---
 
-Write cool stuff
+Ph.D Student in Text and Technology at University of Central Florida.
 
-Say something interesting
+Professional Writing Consultant at Nova Southeastern University.
 
-Add a link [Electronic Literature](https://raf4176.wixsite.com/website)
+Ocassionally handy with fixing things and carving on wood.
+
+I enjoy thinking about and reseraching games. It is fascinating to consider how narratives are combined with codes to create immersive worlds and digital chickens.
+
+[Electronic Literature](https://raf4176.wixsite.com/website)
