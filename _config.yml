@@ -44,10 +44,10 @@ collections:
     permalink: /projects/:name/
     order:
     
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
       - WoodCrafting.md
+      - Silly Stories.md
+      - redirect.md
+      - ongerProjectTitle.md
       - project5.md
       - project6.md
 
