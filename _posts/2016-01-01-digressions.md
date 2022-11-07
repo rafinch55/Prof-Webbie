@@ -17,11 +17,13 @@ along the base mixing tiny particles with the floating greasy mist. The fan suck
 and spits the toxic concoction back in my face. The neighbor’s hen walks by the open door, head
 cocked to the side taking in the sight of flailing arms and deep exhaled futile breaths, watery eyes
 and the charred skillet still in my hand.
+
 Cluck, cluck screech cluck,
 “Are you making fun of me?” I say while hopelessly swinging through the smoke.
 Cluck cluck screech,
 “This isn’t funny!”
 “This is normal”, I say.
+
 She wanders off, pecking at the ground, back over the fence, the cadence of clucks and
 screeches fading into the field behind the house.
 Normal. Since moving to South Florida life has not felt normal. I walk across the street to
@@ -41,6 +43,7 @@ on every side. I have never encountered squealing scooters and silver haired mis
 before. I spring to my feet and hurdle Sidecar Susan, looking back only for a moment then
 smacking into the pyramid of chips and salsa, I tumble to the floor, Betty’s cackle ringing in my
 ears.
+
 I want to think the ladies meant me no harm, though Betty’s actions would say
 differently. As I sat covered in salsa and salty chips trying to remember why I had left the house
 today, I felt isolated. It is not easy connecting with a new city. The street names are strange, the
@@ -52,6 +55,7 @@ grocery store deli has complex protocols I never imagined existed. I wonder, for
 would be easier to just go home. Buy a one-way ticket back to cozy and enjoy a belly full of
 disappointment on the flight. An angry red-faced man with a clipboard hovers over me, pointing
 towards the restrooms in back.
+
 The salsa left a red stain on my white shirt. Leaving the restrooms, I turned right down
 the automotive aisle, around a corner, then smack. Off my feet again, except this time I was
 greeted with a smile and a hand reaching down to help me up.
@@ -60,6 +64,7 @@ His soothing tones and friendly gestures confused me. “Are you ok?” he asked
 “Yes, I am, and excuse me, I did not see you coming.”
 “It’s ok” he responded. Placing his hands on my shoulders, he dusts away left over
 tomato and onion bits. I look at his featureless face.
+
 He moved me to the left, “Duck” he said,
 “Quack”, I replied.
 “What?” he asked quizzically like the chicken looking at me this morning.
@@ -70,6 +75,7 @@ hanging from his arms. The manager walks quickly in our direction, his face red 
 explode in my ears, I see the back door flapping back and forth. Oh…oh my…oh bloody hell. I
 tuck my chin to my chest and make haste to the exit disappearing out the front door before red
 face manager sees me.
+
 The parking lot buzzes. Shopping carts synchronized to just miss moving cars, carriages
 carrying babies with stains on their shirts like mine, and Betty’s gang zooming down a lane in a
 V formation, her cackle echoing, and me standing on the corner looking out at a small pond
@@ -77,6 +83,7 @@ adjacent to the building, a car speeds by with a box hanging out the window. The
 except for the singular rain cloud hanging out at my corner. I walk a hundred feet to the left, it
 follows. Laughing rain drops wash the salsa from my pants and hair, then seep into my shoes so
 every step squelches.
+
 I walk home, wet and squishy. The chicken’s song sings in my head. Cluck cluck screech
 cluck. What it must be like to be a bird, with wings to take you skyward, never knowing where
 one might land. I landed in South Florida, awkward and searching for my place. So far outside
